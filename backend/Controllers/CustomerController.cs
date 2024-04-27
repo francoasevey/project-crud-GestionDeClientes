@@ -35,7 +35,7 @@ namespace backend.Controllers
         {
             CustomerEntity result = await _customerDatabaseContext.Get(id);
 
-            return new OkObjectResult(result);
+            return new OkObjectResult(result.ToDto());
         }
         //api/customer
         [HttpDelete("{id}")]
