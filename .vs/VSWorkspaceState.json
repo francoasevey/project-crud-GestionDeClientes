@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\backend",
+    "\\backend\\Controllers"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\backend",
+  "PreviewInSolutionExplorer": true
 }
