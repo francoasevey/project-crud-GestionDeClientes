@@ -1,5 +1,6 @@
 ﻿using backend.Dtos;
 using Microsoft.AspNetCore.Mvc;
+using backend.Repositories;
 
 
 namespace backend.Controllers
@@ -9,6 +10,13 @@ namespace backend.Controllers
     [Route("api/[controller]")]//responde y se traduce a CustomersController
     public class CustomerController : Controller
     {
+        
+        private readonly CustomerDatabaseContext _customerDatabaseContext;
+
+        public CustomerController(CustomerDatabaseContext customerDatabaseContext)
+        {
+            _customerDatabaseContext = customerDatabaseContext;
+        }
         // GET: CustomersController
         //[Authorize]
         //api/customer
@@ -25,8 +33,9 @@ namespace backend.Controllers
         public async Task<IActionResult> GetCustomer(long id)
 
         {
-            var vacio = new CustomerDto();
-            return new OkObjectResult(vacio);
+            CustomerEntity result = await _customerDatabaseContext.Get(id);
+
+            return new OkObjectResult(result);
         }
         //api/customer
         [HttpDelete("{id}")]
@@ -41,8 +50,8 @@ namespace backend.Controllers
         [ProducesResponseType(StatusCodes.Status201Created, Type = typeof(CustomerDto))]
         public async Task<IActionResult> CreateCustomer(CreateCustomerDto customer)
         {
-            var vacio = new CustomerDto();
-            return new CreatedResult($"http://localhost:7030/api/customer/{vacio.Id}", null);
+            CustomerEntity result = await _customerDatabaseContext.Add(customer);
+            return new CreatedResult($"http://localhost:7030/api/customer/{result.Id}", null);
         }
 
         //api/customer

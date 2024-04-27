@@ -6,6 +6,11 @@ namespace backend.Repositories
 {
     public class CustomerDatabaseContext : DbContext
     {
+        public CustomerDatabaseContext(DbContextOptions<CustomerDatabaseContext> options)
+            : base(options)
+            {
+
+            }
         public DbSet<CustomerEntity> Customer { get; set; }
 
         public async Task<CustomerEntity> Get(long id)
