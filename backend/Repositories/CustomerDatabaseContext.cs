@@ -41,6 +41,14 @@ namespace backend.Repositories
             await SaveChangesAsync();
             return await Get(response.Entity.Id ?? throw new Exception("no se ha podido guardar"));
         }
+
+        public async Task<bool> Actualizar(CustomerEntity customerEntity)
+        {
+            Customer.Update(customerEntity);
+            await SaveChangesAsync();
+
+            return true;
+        }
     }   
     public class CustomerEntity
     {

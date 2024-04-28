@@ -1,6 +1,7 @@
 ﻿using backend.Dtos;
 using Microsoft.AspNetCore.Mvc;
 using backend.Repositories;
+using backend.CasosDeUso;
 
 
 namespace backend.Controllers
@@ -12,10 +13,12 @@ namespace backend.Controllers
     {
         
         private readonly CustomerDatabaseContext _customerDatabaseContext;
+        private readonly IUpdateCustomerUseCase _UpdateCustomerUseCase;
 
-        public CustomerController(CustomerDatabaseContext customerDatabaseContext)
+        public CustomerController(CustomerDatabaseContext customerDatabaseContext, IUpdateCustomerUseCase updateCustomerUseCase)
         {
             _customerDatabaseContext = customerDatabaseContext;
+            _UpdateCustomerUseCase = updateCustomerUseCase;
         }
         // GET: CustomersController
         //[Authorize]
@@ -62,7 +65,10 @@ namespace backend.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<IActionResult> UpdateCustomer(CustomerDto customer)
         {
-            throw new NotImplementedException();
+            var result = await _UpdateCustomerUseCase.Execute(customer);
+            if (result == null)
+                return new NotFoundResult();
+            return new OkObjectResult(result);
         }
     }
 }
