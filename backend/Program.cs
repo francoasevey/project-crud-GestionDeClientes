@@ -15,7 +15,7 @@ builder.Services.AddRouting(routing => routing.LowercaseUrls = true); //poner pa
 
 builder.Services.AddDbContext<CustomerDatabaseContext>(mysqlBuilder =>
 {
-    mysqlBuilder.UseMySQL(builder.Configuration.GetConnectionString("ConnectionDB"));
+    mysqlBuilder.UseMySQL(builder.Configuration.GetConnectionString("ConnectionDB"));//esta en el json de appsetting
     //builder.UseMySQL("Server=localhost;Port=3306;Database=customerdatabase;Uid=root;pwd=");//conexion con la DB pero no es buena practica hacer esto
     //builder.UseMySQL();
 });

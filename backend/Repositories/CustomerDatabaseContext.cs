@@ -13,11 +13,18 @@ namespace backend.Repositories
             }
         public DbSet<CustomerEntity> Customer { get; set; }
 
-        public async Task<CustomerEntity> Get(long id)
+        public async Task<CustomerEntity?> Get(long id)
         {
-            return await Customer.FirstAsync(x => x.Id == id);
+            return await Customer.FirstOrDefaultAsync(x => x.Id == id);
         }
 
+        public async Task<bool> Delete(long id)
+        {
+            CustomerEntity entity = await Get(id);
+            Customer.Remove(entity);
+            SaveChanges();
+            return true;
+        }
         public async Task<CustomerEntity> Add(CreateCustomerDto customerDto)
         {
             CustomerEntity entity = new CustomerEntity()

@@ -21,10 +21,11 @@ namespace backend.Controllers
         //[Authorize]
         //api/customer
         [HttpGet]
-        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(CustomerDto))]
-        public async Task<ActionResult> GetCustomers()
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<CustomerDto>))]
+        public async Task<IActionResult> GetCustomers()
         {
-            throw new NotImplementedException();
+            var result = _customerDatabaseContext.Customer.Select(c => c.ToDto()).ToList();
+            return new OkObjectResult(result);
         }
         //api/customer/{id}
         [HttpGet("{id}")]
@@ -41,9 +42,10 @@ namespace backend.Controllers
         [HttpDelete("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(bool))]
 
-        public async Task<ActionResult> DeleteCustomer(long id)
+        public async Task<IActionResult> DeleteCustomer(long id)
         {
-            throw new NotImplementedException();
+            var result = await _customerDatabaseContext.Delete(id);
+            return new OkObjectResult(result);
         }
         //api/customer
         [HttpPost]
@@ -51,14 +53,14 @@ namespace backend.Controllers
         public async Task<IActionResult> CreateCustomer(CreateCustomerDto customer)
         {
             CustomerEntity result = await _customerDatabaseContext.Add(customer);
-            return new CreatedResult($"http://localhost:7030/api/customer/{result.Id}", null);
+            return new CreatedResult($"https://localhost:7030/api/customer/{result.Id}", null);
         }
 
         //api/customer
         [HttpPut]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(CustomerDto))]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task<ActionResult> UpdateCustomer(CustomerDto customer)
+        public async Task<IActionResult> UpdateCustomer(CustomerDto customer)
         {
             throw new NotImplementedException();
         }
