@@ -1,3 +1,4 @@
+using backend.CasosDeUso;
 using backend.Repositories;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,6 +20,8 @@ builder.Services.AddDbContext<CustomerDatabaseContext>(mysqlBuilder =>
     //builder.UseMySQL("Server=localhost;Port=3306;Database=customerdatabase;Uid=root;pwd=");//conexion con la DB pero no es buena practica hacer esto
     //builder.UseMySQL();
 });
+
+builder.Services.AddScoped<IUpdateCustomerUseCase, UpdateCustomerUseCase>();
 
 var app = builder.Build();
 
