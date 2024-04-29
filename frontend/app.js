@@ -24,7 +24,7 @@ function cerrarModal() {
 
 
 async function search() {
-  var url = URL_API + 'customers'
+  var url = URL_API + 'customer'
   var response = await fetch(url, {
     "method": 'GET',
     "headers": {
@@ -53,7 +53,7 @@ async function search() {
 async function remove(id) {
   respuesta = confirm('¿Está seguro de eliminarlo?')
   if (respuesta) {
-    var url = URL_API + 'customers/' + id
+    var url = URL_API + 'customer/' + id
     await fetch(url, {
       "method": 'DELETE',
       "headers": {
@@ -87,7 +87,7 @@ async function save() {
     data.id = id
   }
 
-  var url = URL_API + 'customers'
+  var url = URL_API + 'customer'
   await fetch(url, {
     "method": id != '' ? 'PUT' : 'POST',
     "body": JSON.stringify(data),
