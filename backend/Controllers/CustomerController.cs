@@ -65,7 +65,7 @@ namespace backend.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<IActionResult> UpdateCustomer(CustomerDto customer)
         {
-            var result = await _UpdateCustomerUseCase.Execute(customer);
+            CustomerDto? result = await _UpdateCustomerUseCase.Execute(customer);
             if (result == null)
                 return new NotFoundResult();
             return new OkObjectResult(result);

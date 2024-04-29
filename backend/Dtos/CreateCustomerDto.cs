@@ -14,7 +14,5 @@ namespace backend.Dtos
         public string Phone { get; set; }
         [Required(ErrorMessage = "El nombre de la direccion tiene que estar especificado")]
         public string Address { get; set; }
-
-
     }
 }
