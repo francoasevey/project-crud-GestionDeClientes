@@ -36,8 +36,8 @@ async function search() {
   var html = ''
   for (customer of customers) {
     var row = `<tr>
-    <td>${customer.firstname}</td>
-    <td>${customer.lastname}</td>
+    <td>${customer.firstName}</td>
+    <td>${customer.lastName}</td>
     <td>${customer.email}</td>
     <td>${customer.phone}</td>
     <td>
@@ -48,6 +48,18 @@ async function search() {
     html = html + row;
   }
   document.querySelector('#customers > tbody').outerHTML = html
+}
+
+function edit(id){
+  abrirFormulario()
+  var customer = customers.find(x => x.id == id)
+  document.getElementById('txtId').value = customer.id
+  document.getElementById('txtFirstname').value = customer.firstName
+  document.getElementById('txtLastname').value = customer.lastName
+  document.getElementById('txtPhone').value = customer.phone
+  document.getElementById('txtAddress').value = customer.address
+  document.getElementById('txtEmail').value = customer.email
+  
 }
 
 async function remove(id) {
