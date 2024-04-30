@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", init);
-const URL_API = 'https://localhost:7195/api/'
+const URL_API = 'https://localhost:7260/api/'
 
 var customers = []
 

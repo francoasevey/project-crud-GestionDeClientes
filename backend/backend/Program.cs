@@ -23,6 +23,17 @@ builder.Services.AddDbContext<CustomerDatabaseContext>(mysqlBuilder =>
 
 builder.Services.AddScoped<IUpdateCustomerUseCase, UpdateCustomerUseCase>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("NewPolitics", app =>
+    {
+        app.AllowAnyOrigin()
+        .AllowAnyMethod()
+        .AllowAnyHeader();
+    });
+}
+);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,6 +42,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("NewPolitics");
 
 app.UseHttpsRedirection();
 
