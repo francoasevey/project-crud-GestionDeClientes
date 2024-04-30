@@ -1,0 +1,119 @@
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\appsettings.json
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.exe
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.deps.json
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.pdb
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\refint\backend.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.pdb
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\ref\backend.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Google.Protobuf.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\MySql.Data.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\ZstdSharp.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\APRENDIENDO A PROGRAMAR\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\appsettings.Development.json
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\appsettings.json
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.exe
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.deps.json
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\backend.pdb
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Google.Protobuf.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\MySql.Data.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\ZstdSharp.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.sourcelink.json
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.csproj.Up2Date
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\refint\backend.dll
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.pdb
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+D:\APRENDIENDO A PROGRAMAR\proyectos visual studio\project-crud-GestionDeClientes\backend\backend\obj\Debug\net8.0\ref\backend.dll
